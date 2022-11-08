@@ -1,0 +1,7 @@
+name        = "parameter_store"
+type        = "SecureString"
+value       = "values"
+tier        = "Standard"
+data_type   = "text"
+tags        = "production"
+environment = "prod"
